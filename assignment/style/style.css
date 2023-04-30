@@ -1,0 +1,18 @@
+
+
+header {
+    background-color: black;
+    color: greenyellow;
+    text-align: center;
+}
+
+main {
+    background-color: lightgrey;
+    
+}
+body {
+    background-image: url(record.png);
+    background-repeat:repeat;
+    margin:0;
+    padding: 1em;
+}
